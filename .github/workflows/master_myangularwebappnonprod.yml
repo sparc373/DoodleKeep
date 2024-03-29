@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'myangularwebappnonprod'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5CF1504D6491466E84D33C16CDD43654 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_64570A59FF9C41AC8C9A9895E46D4156 }}
           package: .
